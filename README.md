@@ -1,4 +1,4 @@
-# Churn Analysis - Model Building
+# Customer Churn Prediction for a Telecom Company
 
 ## Project Overview
 
